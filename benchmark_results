@@ -1,0 +1,10 @@
+Platform          Benchmark 1    Benchmark 2       
+
+C#                  45             5000
+PHP                 984            538
+PHP/HHVM            737            546
+C++                 45             46358
+node.js             25             170               
+Python 2.7          293            300 
+Java (Open JDK-7)   9              19760
+Ruby                2317           908
